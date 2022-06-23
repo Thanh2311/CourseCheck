@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#savedCoursePane {
+	-fx-background-color: rgba(229, 229, 229, .99); 
+	
+}
+#rightPane{
+	-fx-border-width: 0.0px ;
+	-fx-border-color: rgba(100, 100, 100, 1)  ; 
+}
+#goButton{
+
+}
+#alwaysOnTop{
+	
+}
